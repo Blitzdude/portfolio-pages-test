@@ -1,5 +1,7 @@
 [Website]("https://blitzdude.github.io/portfolio-pages-test/")
 #hello world, ye bastards
+![cat coding]("https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif")
+
 ## Otsikko 2
 - bullets
 - bullets everywhere
